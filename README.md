@@ -26,6 +26,30 @@
 
 <br/>
 
+<div align="center">
+
+### A little entertainment
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<details>
+  <summary><b>🎧 Now Playing</b> (Spotify)</summary>
+  <br/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false" />
+  <br/>
+  <sub>Replace <code>YOUR_SPOTIFY_UID</code> with your Spotify user id.</sub>
+</details>
+
+</div>
+
+<br/>
+
 ## 🐝 About Me
 
 > *"Good software is built piece by piece — like a hive."*
