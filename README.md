@@ -4,78 +4,96 @@
 
 </div>
 
----
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F5A623&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+TypeScript+Developer+%F0%9F%9A%80;Building+TaskHive+%F0%9F%90%9D;React+%2B+Node.js+%2B+MongoDB;Always+learning%2C+always+building.)](https://github.com/Kristannnnn)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F5A623&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+TypeScript+Developer+%F0%9F%9A%80;Building+TaskHive+%F0%9F%90%9D;React+%2B+Node.js+%2B+MongoDB;Clean+UX.+Secure+APIs.+Scalable+Architecture.)](https://github.com/Kristannnnn)
 
 </div>
 
----
+<br/>
+
+<div align="center">
+
+### Quick Overview
+
+**Full‑stack developer** focused on building clean, scalable web apps end‑to‑end.
+
+**Currently:** 🐝 Building **TaskHive** (TypeScript everywhere)
+
+**Core:** React • TypeScript • Node/Express • MongoDB • JWT
+
+</div>
+
+<br/>
 
 ## 🐝 About Me
 
 > *"Good software is built piece by piece — like a hive."*
 
-I'm a **full-stack developer** passionate about building clean, scalable web applications from frontend to backend. Currently deep in development on **TaskHive**, a full-featured task management platform powered by a TypeScript stack end-to-end.
-
 ```typescript
 const kristan = {
-  name:       "Kristan James",
-  role:       "Full Stack Developer",
-  building:   "🐝 TaskHive — Task Management Platform",
-  frontend:   ["React 18", "TypeScript", "Vite", "Tailwind CSS", "Zustand"],
-  backend:    ["Node.js", "Express.js", "TypeScript", "MongoDB", "JWT"],
-  focus:      ["Clean Architecture", "REST APIs", "Auth Systems", "UX"],
-  status:     "🟢 Actively building",
+  name: "Kristan James",
+  role: "Full Stack Developer",
+  building: "🐝 TaskHive — Task Management Platform",
+  frontend: ["React 18", "TypeScript", "Vite", "Tailwind CSS", "Zustand"],
+  backend: ["Node.js", "Express.js", "TypeScript", "MongoDB", "JWT"],
+  focus: ["Clean Architecture", "REST APIs", "Auth Systems", "UX"],
+  status: "🟢 Actively building",
 };
 ```
 
 ---
 
-## 🚀 Featured Project — TaskHive
+## 🚀 Featured — TaskHive
 
 <div align="center">
 
-> A modern, full-stack task management platform — built end-to-end with TypeScript.
+*A modern full‑stack task management platform built end‑to‑end with TypeScript.*
 
 </div>
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h3>⚛️ <a href="https://github.com/Kristannnnn/TASKHIVE-FRONTEND">TASKHIVE-FRONTEND</a></h3>
-      <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react"/>
-      <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript"/>
-      <img src="https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite"/>
-      <img src="https://img.shields.io/badge/Tailwind-3-06B6D4?style=flat-square&logo=tailwind-css"/>
-      <br/><br/>
-      Responsive React 18 SPA with protected routing, JWT auth, skeleton loaders, modal feedback, and a full task management UI organized by category.
+    <td width="50%" valign="top">
+      <h3>⚛️ <a href="https://github.com/Kristannnnn/TASKHIVE-FRONTEND">TaskHive Frontend</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react"/>
+        <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript"/>
+        <img src="https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite"/>
+        <img src="https://img.shields.io/badge/Tailwind-3-06B6D4?style=flat-square&logo=tailwind-css"/>
+      </p>
+      <ul>
+        <li>Responsive SPA with protected routing + JWT auth</li>
+        <li>Category-based task views, modals, and feedback states</li>
+        <li>Skeleton loaders + accessibility (ARIA/keyboard)</li>
+      </ul>
     </td>
-    <td align="center" width="50%">
-      <h3>⚙️ <a href="https://github.com/Kristannnnn/TASKHIVE-BACKEND">TASKHIVE-BACKEND</a></h3>
-      <img src="https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js"/>
-      <img src="https://img.shields.io/badge/Express-4-90C53F?style=flat-square&logo=express"/>
-      <img src="https://img.shields.io/badge/MongoDB-NoSQL-13AA52?style=flat-square&logo=mongodb"/>
-      <img src="https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens"/>
-      <br/><br/>
-      Production-ready REST API with JWT authentication, bcrypt password hashing, Nodemailer email flows, rate limiting, and a clean layered architecture.
+    <td width="50%" valign="top">
+      <h3>⚙️ <a href="https://github.com/Kristannnnn/TASKHIVE-BACKEND">TaskHive Backend</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js"/>
+        <img src="https://img.shields.io/badge/Express-4-90C53F?style=flat-square&logo=express"/>
+        <img src="https://img.shields.io/badge/MongoDB-NoSQL-13AA52?style=flat-square&logo=mongodb"/>
+        <img src="https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens"/>
+      </p>
+      <ul>
+        <li>Production-ready REST API with layered architecture</li>
+        <li>JWT auth + bcrypt hashing + secure password reset flow</li>
+        <li>Rate limiting, CORS, and email flows (Nodemailer)</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-### ✨ TaskHive Feature Highlights
+### ✨ Highlights
 
-| Feature | Frontend | Backend |
-|---|---|---|
-| 🔐 Auth (Register / Login) | ✅ JWT + Zustand store | ✅ bcrypt + JWT generation |
-| 📋 Task CRUD | ✅ Category views, modals | ✅ REST endpoints |
-| 📦 Archive System | ✅ Dedicated archive pages | ✅ Completed task queries |
-| 📧 Password Reset | ✅ Email flow UI | ✅ Nodemailer + secure tokens |
-| 🛡️ Security | ✅ Protected & public routes | ✅ Rate limiting + CORS |
-| 💀 Skeleton Loaders | ✅ Task & global skeletons | — |
-| ♿ Accessibility | ✅ ARIA, keyboard nav | — |
+| Area | What’s included |
+|---|---|
+| 🔐 Authentication | Register/Login, protected routes, JWT sessions |
+| 📋 Task Management | CRUD, categories, archive flow |
+| 📧 Account Recovery | Email reset flow, secure tokens |
+| 🛡️ Security | Rate limiting, CORS, hashing best practices |
+| ♿ UX & A11y | Skeleton states, ARIA, keyboard navigation |
 
 ---
 
@@ -84,6 +102,7 @@ const kristan = {
 <div align="center">
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -93,12 +112,14 @@ const kristan = {
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 ### Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### Tools & Workflow
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
@@ -137,12 +158,12 @@ const kristan = {
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%"/>
 
-*Made with 💛 by [Kristan James](https://github.com/Kristannnnn) · Last updated: 2026-02-20*
+*Made with 💛 by [Kristan James](https://github.com/Kristannnnn) · Last updated: 2026-03-24*
 
 </div>
