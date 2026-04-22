@@ -64,11 +64,9 @@
 const kristan = {
   name: "Kristan James",
   role: "Full Stack Developer",
-  building: "🐝 TaskHive — Task Management Platform",
   frontend: ["React 18", "TypeScript", "Vite", "Tailwind CSS", "Zustand"],
   backend: ["Node.js", "Express.js", "TypeScript", "MongoDB", "JWT"],
   focus: ["Clean Architecture", "REST APIs", "Auth Systems", "UX"],
-  status: "🟢 Actively building",
 };
 ```
 
